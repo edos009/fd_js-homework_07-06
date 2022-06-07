@@ -1,0 +1,1 @@
+const SECRIT_PIN = 7;
